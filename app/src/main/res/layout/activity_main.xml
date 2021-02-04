@@ -45,7 +45,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="Your Pattern"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="30sp" />
 
                 <ImageView
@@ -73,7 +73,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="0 Friends"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <TextView
@@ -82,7 +82,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text=" @pactest"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <TextView
@@ -91,7 +91,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="Edit Profile"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
             </LinearLayout>
@@ -145,7 +145,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="INSTINCTS"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <LinearLayout
@@ -160,7 +160,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited &amp; Independent"
+                        android:text="Free Spirited and Independent"
                         android:textColor="@color/purple_700"
                         android:textSize="20sp" />
 
@@ -182,8 +182,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:paddingLeft="10dp"
-                        android:text="to see shared patterns"
-                        android:textColor="@color/white"
+                        android:text="To see shared patterns"
+                        android:textColor="@color/black"
                         android:textSize="15sp" />
 
                 </LinearLayout>
@@ -204,7 +204,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="INSTINCTS"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <LinearLayout
@@ -242,7 +242,7 @@
                         android:layout_height="wrap_content"
                         android:paddingLeft="10dp"
                         android:text="to see shared patterns"
-                        android:textColor="@color/white"
+                        android:textColor="@color/black"
                         android:textSize="15sp" />
 
                 </LinearLayout>
@@ -263,7 +263,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="INSTINCTS"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <LinearLayout
@@ -278,7 +278,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited &amp; Independent"
+                        android:text="Free Spirited and Independent"
                         android:textColor="@color/purple_700"
                         android:textSize="20sp" />
 
@@ -301,7 +301,7 @@
                         android:layout_height="wrap_content"
                         android:paddingLeft="10dp"
                         android:text="to see shared patterns"
-                        android:textColor="@color/white"
+                        android:textColor="@color/black"
                         android:textSize="15sp" />
 
                 </LinearLayout>
@@ -322,7 +322,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="INSTINCTS"
-                    android:textColor="@color/white"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <LinearLayout
@@ -337,7 +337,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited &amp; Independent"
+                        android:text="Free Spirited and Independent"
                         android:textColor="@color/purple_700"
                         android:textSize="20sp" />
 
@@ -360,7 +360,7 @@
                         android:layout_height="wrap_content"
                         android:paddingLeft="10dp"
                         android:text="to see shared patterns"
-                        android:textColor="@color/white"
+                        android:textColor="@color/black"
                         android:textSize="15sp" />
                 </LinearLayout>
 
@@ -395,7 +395,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited &amp; Independent"
+                        android:text="Free Spirited and Independent"
                         android:textColor="@color/purple_700"
                         android:textSize="20sp" />
 
