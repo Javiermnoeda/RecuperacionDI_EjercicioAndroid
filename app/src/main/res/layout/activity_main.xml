@@ -161,7 +161,7 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:text="Free Spirited and Independent"
-                        android:textColor="@color/purple_700"
+                        android:textColor="@color/purple_500"
                         android:textSize="20sp" />
 
                     <ImageView
@@ -203,7 +203,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="INSTINCTS"
+                    android:text="GROWTH"
                     android:textColor="@color/black"
                     android:textSize="15sp" />
 
@@ -219,8 +219,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited and Independent"
-                        android:textColor="@color/purple_700"
+                        android:text="Powerful and Deep"
+                        android:textColor="@color/purple_500"
                         android:textSize="20sp" />
 
                     <ImageView
@@ -262,7 +262,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="INSTINCTS"
+                    android:text="RELATIONSHIP EXPERIENCES"
                     android:textColor="@color/black"
                     android:textSize="15sp" />
 
@@ -278,8 +278,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited and Independent"
-                        android:textColor="@color/purple_700"
+                        android:text="Relaible and Dependable"
+                        android:textColor="@color/purple_500"
                         android:textSize="20sp" />
 
                     <ImageView
@@ -321,7 +321,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="INSTINCTS"
+                    android:text="IDEAL PARTNER TRAITS"
                     android:textColor="@color/black"
                     android:textSize="15sp" />
 
@@ -337,7 +337,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited and Independent"
+                        android:text="Romantic and Impractical"
                         android:textColor="@color/purple_700"
                         android:textSize="20sp" />
 
@@ -379,8 +379,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="INSTINCTS"
-                    android:textColor="@color/white"
+                    android:text="DESTINY"
+                    android:textColor="@color/black"
                     android:textSize="15sp" />
 
                 <LinearLayout
@@ -395,8 +395,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="Free Spirited and Independent"
-                        android:textColor="@color/purple_700"
+                        android:text="Responsibility and Accomplishment"
+                        android:textColor="@color/purple_500"
                         android:textSize="20sp" />
 
                     <ImageView
